@@ -1,0 +1,35 @@
+.container-films-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 706px;
+  width: 323px;
+}
+
+.title-1 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 38px;
+  min-height: 49px;
+  width: 323px;
+}
+
+.flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 621px;
+  min-width: 321px;
+}
+
+.film-thumb-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 621px;
+  position: relative;
+  width: 100px;
+}
+

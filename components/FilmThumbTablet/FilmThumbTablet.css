@@ -1,0 +1,36 @@
+.film-thumb-5 {
+  cursor: pointer;
+  height: 208px;
+  margin-top: -0.25px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 143px;
+}
+
+.film-thumb-5:hover,
+.film-thumb-5.film-thumb-6:hover {
+  transform: scale(1.04);
+}
+
+.film-thumb-5.film-thumb-6 {
+  margin-left: 11px;
+}
+
+.film-thumb-5.film-thumb-7 {
+  margin-left: 12px;
+}
+
+.film-thumb-5.film-thumb-8 {
+  margin-top: unset;
+}
+
+.film-thumb-5.film-thumb-9 {
+  margin-left: 11px;
+  margin-top: unset;
+}
+
+.film-thumb-5.film-thumb-10 {
+  margin-left: 12px;
+  margin-top: unset;
+}
+

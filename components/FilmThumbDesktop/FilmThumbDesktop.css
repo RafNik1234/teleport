@@ -1,0 +1,12 @@
+.film-thumb-4 {
+  cursor: pointer;
+  height: 280px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 190px;
+}
+
+.film-thumb-4:hover {
+  transform: scale(1.04);
+}
+
